@@ -1,3 +1,3 @@
 # Workspace Stoics
 
-A workspace for exploring Stoic philosophy and practices.
+A Claude directory that can serve as an OpenClaw workspace for exploring Stoic philosophy and practices.
